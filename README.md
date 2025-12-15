@@ -62,7 +62,7 @@ RecommendationEdge giúp tinh giản quy trình phát triển và nâng cao năn
 1. Clone repository:
 
 ```bash
-git clone https://github.com/buihayenvi-stack/RecommendationEdge.git
+git clone https://github.com/buihayenvi-stack/Enterprise-Decision-Automation-Engine
 ```
 
 2. Thực hiện theo hướng dẫn cài đặt trong tài liệu cho môi trường cụ thể của bạn.
@@ -116,4 +116,4 @@ Mọi đóng góp cho RecommendationEdge đều được hoan nghênh và đánh
 ## Giấy phép
 
 Dự án được phát hành theo **MIT License**.
-Xem chi tiết tại tệp [LICENSE](https://github.com/buihayenvi-stack/RecommendationEdge/blob/main/LICENSE).
+Xem chi tiết tại tệp [LICENSE](https://github.com/buihayenvi-stack/Enterprise-Decision-Automation-Engine/blob/main/LICENSE).
